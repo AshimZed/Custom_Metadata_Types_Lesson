@@ -10,7 +10,6 @@ public class PurchaseItemTriggerHandler {
         favoriteDays.put('10-03', 0.6); // The Company Owner's Girlfriend's birthday
         favoriteDays.put('07-13', 0.3); // The Company Owner's birthday
         favoriteDays.put('08-24', 0.4); // The Company Owner's Mom's birthday
-        favoriteDays.put('05-20', 0.2); // Today's Date
     }
 
     // Calculate price total
